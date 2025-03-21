@@ -1,7 +1,7 @@
 # "The Maze" & "The Pejman Maze Educational Game"
 
 <div align="center">
-  <img src="Game_IMG/MazePejman.png" alt="Maze Game Banner" width="800"/>
+  <img src="Game_IMG/MazePejman.jpg" alt="Maze Game Banner" width="800"/>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pejman-ebrahimi-4a60151a7/)  
