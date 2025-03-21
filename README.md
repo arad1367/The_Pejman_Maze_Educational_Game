@@ -1,9 +1,5 @@
 # "The Maze" & "The Pejman Maze Educational Game"
 
-<div align="center">
-  <img src="Game_IMG/MazePejman.jpg" alt="Maze Game Banner" width="800"/>
-</div>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pejman-ebrahimi-4a60151a7/)  
 [![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)](https://huggingface.co/arad1367)  
 [![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=About.me&logoColor=white)](https://arad1367.github.io/pejman-ebrahimi/)  
@@ -11,6 +7,10 @@
 
 <div align="center">
   <img src="Game_IMG/logo.jpg" alt="University of Liechtenstein Logo" width="200"/>
+</div>
+
+<div align="center">
+  <img src="Game_IMG/MazePejman.jpg" alt="Maze Game Banner" width="300"/>
 </div>
 
 ## Table of Contents
